@@ -4,8 +4,8 @@
 
 ##### BIO
 
-- 🔭 I’m currently working on [https://app.rentlipa.com](Rentlipa), **[https://sereni.beanflare.com](Sereni)** and **[https://app.workice.com](Workice CRM)**
-- 🌱 I’m currently learning **[https://elixir-lang.org/](elixir)**,**[https://www.phoenixframework.org/](Phoenix LiveView)**,**golang**, **K8s/Containerization**
+- 🔭 I’m currently working on [https://app.rentlipa.com](Rentlipa), [https://sereni.beanflare.com](Sereni) and [https://app.workice.com](Workice CRM)
+- 🌱 I’m currently learning [https://elixir-lang.org](elixir), [https://www.phoenixframework.org](Phoenix LiveView),**golang**, **K8s/Containerization**
 - 👯 I’m looking to collaborate on SaaS - **Rentlipa**
 - 💬 Ask me about Laravel, AWS, Microservices, APIs, CI/CD pipelines, Payment Integrations, @pestphp, TALL Stack, MySQL, Event Sourcing, Web Sockets
 - 📫 How to reach me: [twitter.com/wmandai](https://twitter.com/wmandai)
