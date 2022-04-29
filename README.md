@@ -4,12 +4,12 @@
 
 ##### BIO
 
-- 🔭 I’m currently working on [https://app.rentlipa.com](Rentlipa), [https://sereni.beanflare.com](Sereni) and [https://app.workice.com](Workice CRM)
-- 🌱 I’m currently learning [https://elixir-lang.org](elixir), [https://www.phoenixframework.org](Phoenix LiveView),**golang**, **K8s/Containerization**
+- 🔭 I’m currently working on [Rentlipa](https://app.rentlipa.com), [Sereni](https://sereni.beanflare.com) and [Workice CRM](https://app.workice.com)
+- 🌱 I’m currently learning [elixir](https://elixir-lang.org), [Phoenix LiveView](https://www.phoenixframework.org), **golang**, **K8s/Containerization**
 - 👯 I’m looking to collaborate on SaaS - **Rentlipa**
-- 💬 Ask me about Laravel, AWS, Microservices, APIs, CI/CD pipelines, Payment Integrations, @pestphp, TALL Stack, MySQL, Event Sourcing, Web Sockets
+- 💬 Ask me about Laravel, AWS, Microservices, APIs, CI/CD pipelines, Payment Integrations, @pestphp, TALL Stack, MySQL, Event Sourcing, Web Sockets, Crypto
 - 📫 How to reach me: [twitter.com/wmandai](https://twitter.com/wmandai)
-- ⚡ Am a huge fan of the Laravel Community 🚀 and [https://elixirforum.com/c/phoenix-forum/20](Elixir Community)
+- ⚡ Am a huge fan of the Laravel Community 🚀 and [Elixir Community](https://elixirforum.com/c/phoenix-forum/20)
 
 If you need to message me securely you can [encrypt your message](https://www.gnupg.org/gph/en/manual/x110.html) using my PGP key;  
 
