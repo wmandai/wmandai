@@ -1,6 +1,6 @@
 ### Hey there 👋
 
-#### I'm a Full-Stack Developer and founder at [Rentlipa Platform](https://rentlipa.com) 🚀
+#### I'm a Web Developer and founder at [Rentlipa Platform](https://rentlipa.com) 🚀
 
 ##### BIO
 
