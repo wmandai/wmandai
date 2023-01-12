@@ -5,7 +5,7 @@
 ##### BIO
 
 - 🔭 Working on [Rentlipa](https://app.rentlipa.com)
-- 🌱 I’m currently learning [elixir](https://elixir-lang.org), [Phoenix LiveView](https://www.phoenixframework.org), **golang**, **K8s/Containerization** and AI
+- 🌱 I’m currently learning [elixir](https://elixir-lang.org), [Phoenix LiveView](https://www.phoenixframework.org), **rustlang**, **K8s/Containerization** and AI
 - 👯 I’m looking to collaborate on SaaS - **Rentlipa**
 - 💬 Ask me about Laravel TALL Stack, NextJS (Vercel) & Node.JS/Nest.JS, AWS, Microservices, APIs, CI/CD pipelines, Serverless, PostgreSQL, Prisma, MongoDB, MySQL, Event Sourcing, Web Sockets, Crypto, TailwindCSS
 - 📫 How to reach me: [twitter.com/wmandai](https://twitter.com/wmandai)
