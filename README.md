@@ -3,11 +3,11 @@
 ##### BIO
 
 - 🔭 Co-founder [Rentlipa](https://app.rentlipa.com)
-- 🌱 Currently learning [elixir](https://elixir-lang.org), [Phoenix LiveView](https://www.phoenixframework.org), **rustlang**, **K8s/Containerization** and AI
+- 🌱 Currently learning [GKE](https://cloud.google.com/kubernetes-engine), **rustlang**, **tauri**, **flutter**, **Distributed Systems** and AI
 - 👯 I’m looking to collaborate on SaaS - **Rentlipa**
-- 💬 Ask me about Laravel TALL Stack, NextJS (Vercel) & Node.JS/Nest.JS, AWS, Microservices, APIs, CI/CD pipelines, Serverless, PostgreSQL, Prisma, MongoDB, MySQL, Event Sourcing, Web Sockets, Crypto, TailwindCSS
+- 💬 Ask me about Laravel TALL Stack, NextJS (Vercel) & Node.JS/Nest.JS, AWS, Microservices, gRPC, APIs, CI/CD pipelines, Serverless, PostgreSQL, Prisma, MySQL, Event Sourcing, Web Sockets, Crypto, TailwindCSS
 - 📫 How to reach me: [twitter.com/wmandai](https://twitter.com/wmandai)
-- ⚡ Am a huge fan of the Laravel Community 🚀, Nest.JS and [Elixir Community](https://elixirforum.com/c/phoenix-forum/20)
+- ⚡ Fan of the Prisma Community, Laravel Community 🚀, Nest.JS and [Rustaceans Community](https://www.rust-lang.org/community)
 
 If you need to message me securely you can [encrypt your message](https://www.gnupg.org/gph/en/manual/x110.html) using my PGP key;  
 
