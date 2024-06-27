@@ -1,4 +1,4 @@
-#### Software Engineer @iProcure
+#### Software Engineer
 
 ##### BIO
 
@@ -10,5 +10,5 @@
 
 If you need to message me securely you can [encrypt your message](https://www.gnupg.org/gph/en/manual/x110.html) using my PGP key;  
 
-[1E90 3DA1 AE1F 0868 9578 DDF6 B44C 1A24 1F76 06FE](https://keybase.io/wmandai/pgp_keys.asc?fingerprint=1e903da1ae1f08689578ddf6b44c1a241f7606fe)
+[2720 7AA7 D585 D5CB 7366 827B 1E07 84A4 94C2 B747](https://keybase.io/wmandai/pgp_keys.asc?fingerprint=27207aa7d585d5cb7366827b1e0784a494c2b747)
 
