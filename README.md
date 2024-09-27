@@ -1,5 +1,3 @@
-#### Software Engineer
-
 - 🔭 /dev [Rentlipa](https://rentlipa.com)
 - 🌱 Using [GKE](https://cloud.google.com/kubernetes-engine), [@Go](https://go.dev), [Tauri](https://tauri.app), **Distributed Systems** and AI
 - 💬 Skills: Laravel TALL Stack, NextJS (Vercel) & Node.JS/[Nest.JS](https://nestjs.com), AWS, [Microservices](https://microservices.io), gRPC, APIs, CI/CD pipelines, Serverless, PostgreSQL, [Prisma](https://www.prisma.io), MySQL, Event Sourcing, Kafka, Crypto, [TailwindCSS](https://tailwindcss.com)
