@@ -1,7 +1,6 @@
-Hey 👋  
-I’m @wmandai – a curious programmer, tech enthusiast and avid tinkerer. If it beeps, clicks, compiles or breaks, i’m probably messing with it.
+@wmandai – a curious programmer, tech enthusiast and avid tinkerer. If it beeps, clicks, compiles or breaks, i’m probably messing with it.
 
-🔭 Currently exploring `/dev/craftdune` & `/dev/rentlipa` and dabbling in a bit of AI magic 🤖
+👨‍💻 building `/dev/craftdune` and dabbling in a bit of AI magic 🤖
 
 ## 📫 Reach me!
 If you need to message me securely you can [encrypt your message](https://www.gnupg.org/gph/en/manual/x110.html) using my PGP key;  
