@@ -1,4 +1,4 @@
-@wmandai – a curious programmer, tech enthusiast and avid tinkerer. If it beeps, clicks, compiles or breaks, i’m probably messing with it.
+Tech enthusiast and avid tinkerer. If it beeps, clicks, compiles or breaks, i’m probably messing with it.
 
 👨‍💻 building `/dev/craftdune` and dabbling in a bit of AI magic 🤖
 
